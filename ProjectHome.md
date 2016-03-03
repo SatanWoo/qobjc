@@ -1,0 +1,1 @@
+This library was develop for porting a code from MacOSX to Windows platform. But it is never used in a real project, because do not have a parser. The parser will be writen later. Runtime wrote very clearly and qualitatively and you can write your code with help of this library without parser - this will be some like to Object-Oriented C. (which have all objective-c features).
